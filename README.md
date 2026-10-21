@@ -8,7 +8,7 @@
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)
 
-> 🔒 **Repositório vitrine.** O código-fonte é privado. Aqui estão a arquitetura e as decisões técnicas. Demonstração técnica disponível sob solicitação.
+> **Repositório vitrine.** O código-fonte é privado. Aqui estão a arquitetura e as decisões técnicas. Demonstração técnica disponível sob solicitação.
 
 ## O problema
 
